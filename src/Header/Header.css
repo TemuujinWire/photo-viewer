@@ -1,0 +1,18 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1E1E24;
+    padding: 25px 25%;
+}
+
+.header-left {
+    color: #CDCCCB;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+
+.header-right img {
+    height: 5rem;
+    border-radius: 5px;
+}
