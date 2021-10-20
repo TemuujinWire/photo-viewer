@@ -1,0 +1,14 @@
+.view-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.view {
+    margin-top: 1%;
+    width: 50%;
+}
+
+.view img {
+    border-radius: 10px;
+    width: 100%;
+}
