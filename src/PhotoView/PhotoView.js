@@ -12,7 +12,7 @@ function PhotoView() {
           <img src={`${process.env.PUBLIC_URL}/${path}`}/>
         </div>
       </div>
-      <Gallery path={path} setpath={setpath}/>
+      <Gallery selectedImg={path} setImg={setpath}/>
     </div>
     
   )
